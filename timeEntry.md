@@ -19,3 +19,7 @@
 - Modular hallways mostly complete
 - Layout #2 of ship started and most of the hallway paths figured out. 
 
+### Date: 12/24/2024
+### Hours: 4
+### Tasks:
+- completed outline of hallways and rooms ready to box in and convert to a proper ship. 
