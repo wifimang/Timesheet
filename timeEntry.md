@@ -23,3 +23,8 @@
 ### Hours: 4
 ### Tasks:
 - completed outline of hallways and rooms ready to box in and convert to a proper ship. 
+
+### Date: 12/27/2024
+### Hours: 1.5
+### Tasks:
+- Completed the rough room designs and layout for the ship still need to create a shell for the outer hull of the ship
