@@ -30,7 +30,7 @@
 - Completed the rough room designs and layout for the ship still need to create a shell for the outer hull of the ship
 
 ### Date: 12/28/2024
-### Hours: .4
+### Hours: .5
 ### Tasks:
 - Sync with aleks on finalizing ship model and getting it ready to import to UE 5.5 conversion.
 - shared files and talked to shumisfum 
