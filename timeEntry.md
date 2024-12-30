@@ -34,3 +34,8 @@
 ### Tasks:
 - Sync with aleks on finalizing ship model and getting it ready to import to UE 5.5 conversion.
 - shared files and talked to shumisfum 
+
+### Date: 12/30/2024
+### Hours: 1
+### Tasks:
+- made new welding model
