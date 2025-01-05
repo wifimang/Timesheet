@@ -39,3 +39,25 @@
 ### Hours: 1
 ### Tasks:
 - made new welding model
+
+### Date: 12/31/2024
+### Hours: 3
+### Tasks:
+- Finished the majority of block out 
+- Started work on lighting fixtures and blueprints.
+
+### Date: 1/1/2025
+### Hours: 4
+### Tasks:
+-Modeled few variants of the radar till satisfied.
+
+### Date: 1/2/2025
+### Hours: 1
+### Tasks:
+-Troubleshooting build problem when converting from 5.4 to 5.5 with aleks
+
+### Date: 1/4/2025
+### Hours: 4
+### Tasks:
+- Branched main into ship model to start import of new models
+- setup basic blue prints for each room and 1 for ship and started laying out models
