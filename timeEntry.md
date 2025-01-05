@@ -61,3 +61,8 @@
 ### Tasks:
 - Branched main into ship model to start import of new models
 - setup basic blue prints for each room and 1 for ship and started laying out models
+
+### Date: 1/5/2025
+### Hours: 2.5
+### Tasks:
+- finished first rendision of ship blueprint
