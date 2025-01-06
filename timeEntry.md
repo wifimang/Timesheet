@@ -63,6 +63,9 @@
 - setup basic blue prints for each room and 1 for ship and started laying out models
 
 ### Date: 1/5/2025
-### Hours: 2.5
+### Hours: 7
 ### Tasks:
 - finished first rendision of ship blueprint
+- setup glass material for use
+- Door sliding blueprint setup 
+- Sync with aleks about next items that need to be tackled
