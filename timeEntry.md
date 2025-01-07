@@ -69,3 +69,10 @@
 - setup glass material for use
 - Door sliding blueprint setup 
 - Sync with aleks about next items that need to be tackled
+
+### Date: 1/6/2025
+### Hours: 5
+### Tasks:
+- Created new rough layout for reactor casing and control station
+- Created beds to fill out the crew quarters
+- looked into layered textures as well as adobe imported textures
