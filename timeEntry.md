@@ -76,3 +76,17 @@
 - Created new rough layout for reactor casing and control station
 - Created beds to fill out the crew quarters
 - looked into layered textures as well as adobe imported textures
+
+### Date: 1/7/2025
+### Hours: .3
+### Tasks:
+- Organized FBX files in modeling rep
+- figured out material layering some more
+
+### Date: 1/8/2025
+### Hours: 8
+### Tasks:
+- created material functions for breaking apart textures
+- new asteroid material setup for testing
+- Medical bed created
+- reactor room catwalk up dated and rails put in
