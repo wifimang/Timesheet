@@ -90,3 +90,18 @@
 - new asteroid material setup for testing
 - Medical bed created
 - reactor room catwalk up dated and rails put in
+
+### Date: 1/14/2025
+### Hours: 7
+### Tasks:
+- Tried fixing lumens light bouncing problem with aleks
+- Created ladder , spot lights and drill models 
+- learned some more geometry node editing in blender
+
+### Date: 1/15/2025
+### Hours: 6
+### Tasks:
+- New reacotr casing designed
+- New Pipes designed
+- Sync with aleks / will for pipe damage system
+- New lighting for rooms
