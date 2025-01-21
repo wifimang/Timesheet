@@ -99,9 +99,18 @@
 - learned some more geometry node editing in blender
 
 ### Date: 1/15/2025
-### Hours: 6
+### Hours: 7
 ### Tasks:
 - New reacotr casing designed
 - New Pipes designed
 - Sync with aleks / will for pipe damage system
 - New lighting for rooms
+- Started some base level construction for a station
+
+### Date: 1/20/2025
+### Hours: 7
+### Tasks:
+- worked on transformer models some more adding wiring
+- changed bridge model 
+- modeled command seat, console
+- 
