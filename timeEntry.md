@@ -129,4 +129,14 @@
 ### Hours: 1.5
 ### Tasks:
 - Finished main pilot seat models
-- 
+
+
+### Date: 1/29/2025
+### Hours: 4
+### Tasks:
+- Remodeled cargo room / workshop
+- outlined workshop components
+
+### Date: 1//2025
+### Hours: 
+### Tasks:
