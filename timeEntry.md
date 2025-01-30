@@ -113,4 +113,20 @@
 - worked on transformer models some more adding wiring
 - changed bridge model 
 - modeled command seat, console
+
+### Date: 1/21/2025
+### Hours: .5
+### Tasks:
+- minor tweaks to models
+
+### Date: 1/22/2025
+### Hours: 6
+### Tasks:
+- continued work on pilot seat
+- worked with aleks to get a texture made for console hardware and get it partially implemented.
+
+### Date: 1/26/2025
+### Hours: 1.5
+### Tasks:
+- Finished main pilot seat models
 - 
