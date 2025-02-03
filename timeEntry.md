@@ -144,3 +144,9 @@
 - Replaced BP with newer models for the rooms still needs collision
 - Started working on thruster models
 - Modled engines to support the magnetic rings 
+
+### Date: 2/2/2025
+### Hours: 4
+### Tasks:
+- Continued on the reactor room and engine room
+- tanks modeled and room layout better defined
