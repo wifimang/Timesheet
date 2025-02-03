@@ -137,6 +137,10 @@
 - Remodeled cargo room / workshop
 - outlined workshop components
 
-### Date: 1//2025
-### Hours: 
+### Date: 2/1/2025
+### Hours: 7
 ### Tasks:
+- Remodeled reactor room
+- Replaced BP with newer models for the rooms still needs collision
+- Started working on thruster models
+- Modled engines to support the magnetic rings 
