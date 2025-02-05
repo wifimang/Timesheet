@@ -150,3 +150,8 @@
 ### Tasks:
 - Continued on the reactor room and engine room
 - tanks modeled and room layout better defined
+
+### Date: 2/3/2025
+### Hours: 6
+### Tasks:
+- remade the magnetic niagara system from scratch to better resemble gas. 
