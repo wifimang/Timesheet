@@ -152,6 +152,6 @@
 - tanks modeled and room layout better defined
 
 ### Date: 2/3/2025
-### Hours: 6
+### Hours: 5
 ### Tasks:
-- remade the magnetic niagara system from scratch to better resemble gas. 
+- messing with niagara systems. 
