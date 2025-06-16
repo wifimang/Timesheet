@@ -155,3 +155,15 @@
 ### Hours: 5
 ### Tasks:
 - messing with niagara systems. 
+
+### Date: 6/10/2025
+### Hours: 1.5
+### Tasks:
+-Synced up with where the project is at now.
+
+
+### Date: 6/16/2025
+### Hours: 6
+### Tasks:
+-Imported reactor room and engine room
+-Added Chriss reactor console model and textured.
