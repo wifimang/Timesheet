@@ -167,3 +167,15 @@
 ### Tasks:
 -Imported reactor room and engine room
 -Added Chriss reactor console model and textured.
+
+### Date: 8/30/2025
+### Hours: 2
+### Tasks:
+- Sketched model for station 
+- Started station model
+
+### Date: 8/31/2025
+### Hours: 6
+### Tasks:
+-Finished model of station for play testing setup but needs texture 
+-continued sketches
