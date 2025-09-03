@@ -179,3 +179,9 @@
 ### Tasks:
 -Finished model of station for play testing setup but needs texture 
 -continued sketches
+
+### Date: 9/2/2025
+### Hours: 6
+### Tasks:
+-Sketched up asteroid mining station. 
+-Started modeling station
