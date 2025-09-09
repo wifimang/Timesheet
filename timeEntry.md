@@ -185,3 +185,14 @@
 ### Tasks:
 -Sketched up asteroid mining station. 
 -Started modeling station
+
+### Date: 9/4/2025
+### Hours: 4
+### Tasks:
+-Tested some textures and drew up some texture plans
+
+### Date: 9/8/2025
+### Hours: 3
+### Tasks:
+-Modeled radio dish and cell tower style models
+-Added ladder and catwalk to station
