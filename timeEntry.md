@@ -196,3 +196,15 @@
 ### Tasks:
 -Modeled radio dish and cell tower style models
 -Added ladder and catwalk to station
+
+### Date: 9/10/2025
+### Hours: 4
+### Tasks:
+-Continued to model asteroid station
+-added frame around pipes and added details to the upper section of the station.
+
+### Date: 9/11/2025
+### Hours: 6
+### Tasks:
+-Modeled hangar doors for station and 
+-Mostly finished modeling the main unit of the station. 
