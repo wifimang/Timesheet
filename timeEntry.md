@@ -208,3 +208,16 @@
 ### Tasks:
 -Modeled hangar doors for station and 
 -Mostly finished modeling the main unit of the station. 
+
+
+### Date: 9/14/2025
+### Hours: 10
+### Tasks:
+-Working on enemy ship designs
+- Greebles designed
+
+### Date: 9/15/2025
+### Hours: 10
+### Tasks:
+- modeled more enemy ships
+
