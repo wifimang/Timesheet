@@ -221,3 +221,19 @@
 ### Tasks:
 - modeled more enemy ships
 
+### Date: 9/16/2025
+### Hours: 3
+### Tasks:
+- working on fighter 2 
+
+### Date: 9/17/2025
+### Hours: 3
+### Tasks:
+- working on fighter 2 
+
+### Date: 9/22/2025
+### Hours: 3
+### Tasks:
+- finished blocking fighter 2 out. 
+
+
